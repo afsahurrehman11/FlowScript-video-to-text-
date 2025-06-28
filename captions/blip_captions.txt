@@ -1,0 +1,54 @@
+frame_0000.jpg: a city with skyscrapers and cars
+frame_0001.jpg: a man standing in front of a window looking out at the city
+frame_0002.jpg: a man in a white shirt and sunglasses standing in front of a window
+frame_0003.jpg: a man in a white shirt and sunglasses standing in front of a window
+frame_0004.jpg: a man in a white shirt and sunglasses stands in front of a window
+frame_0005.jpg: a man in a white shirt and sunglasses standing in front of a window
+frame_0006.jpg: a man in a white shirt and sunglasses stands in front of a large screen
+frame_0007.jpg: a man in a white shirt is holding a black tablet
+frame_0008.jpg: a man is holding a tablet computer in his hand
+frame_0009.jpg: a large screen with a picture of a man in a suit
+frame_0010.jpg: a person is using a video camera to take pictures
+frame_0011.jpg: a man is using a large screen to see a video
+frame_0012.jpg: a man in a white lab coat is looking at a computer screen
+frame_0013.jpg: a large screen with a picture of a man in a lab
+frame_0014.jpg: a man is pointing at a screen with a picture of a man in a suit
+frame_0015.jpg: a man points at a screen displaying a video game
+frame_0016.jpg: a man is using a touch screen to display a video
+frame_0017.jpg: a man in a white shirt is standing in front of a large screen
+frame_0018.jpg: a man in a white shirt is standing in front of a large screen
+frame_0019.jpg: a man in a white shirt and sunglasses standing in an office
+frame_0020.jpg: a man in a white shirt and sunglasses is standing in an office
+frame_0021.jpg: a man in a white shirt and sunglasses is looking at the camera
+frame_0022.jpg: a man in a white shirt and sunglasses is standing in an office
+frame_0023.jpg: a man in a white shirt and sunglasses is standing in an office
+frame_0024.jpg: a man in a white shirt and sunglasses is standing in front of a computer
+frame_0025.jpg: a man in a white shirt and sunglasses is holding a cigarette
+frame_0026.jpg: a man in a white shirt and sunglasses is holding his hands up
+frame_0027.jpg: a man in a white shirt and sunglasses is holding his hands up to his face
+frame_0028.jpg: a man in a white shirt and sunglasses stands in front of a window
+frame_0029.jpg: a man in a suit is standing in front of a large window
+frame_0030.jpg: a man standing in front of a large window
+frame_0031.jpg: a man standing in front of a large window
+frame_0032.jpg: a person holding a cell phone in their hand
+frame_0033.jpg: a man in a white shirt is pointing at a large screen
+frame_0034.jpg: a man in a white shirt is standing in front of a large screen
+frame_0035.jpg: a man in a white shirt and sunglasses is standing in front of a computer
+frame_0036.jpg: a man in a white shirt and sunglasses is standing in front of a computer
+frame_0037.jpg: a man in a white shirt and glasses is standing in front of a computer
+frame_0038.jpg: a man in a white shirt and sunglasses is standing in an office
+frame_0039.jpg: a man in a white shirt and sunglasses stands in an office
+frame_0040.jpg: a man in a white shirt is standing in front of a window
+frame_0041.jpg: a small house in the middle of a forest at night
+frame_0042.jpg: a large orange egg with the word ' home ' on it
+frame_0043.jpg: a photo of a dog in a tent
+frame_0044.jpg: a small orange box with a small white box inside
+frame_0045.jpg: a person is reflected in a mirror
+frame_0046.jpg: a bottle with the word ' i do ' on it
+frame_0047.jpg: a bottle with a cartoon character inside
+frame_0048.jpg: a blur of a bottle of wine
+frame_0049.jpg: a small toy in a glass ball with the word ione on it
+frame_0050.jpg: a toy in a glass ball with the word ' botme '
+frame_0051.jpg: a black background with a crescent in the middle
+frame_0052.jpg: a black and white logo with the letter o
+frame_0053.jpg: get your brand logo
