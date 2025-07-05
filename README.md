@@ -110,6 +110,6 @@ pip install opencv-python torch whisper easyocr numpy pillow tqdm torchvision tr
 
 ## Web App  
 Upload videos online via our single-file Python app—check the repo!
-.
+
 ---
 
