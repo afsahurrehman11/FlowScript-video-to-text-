@@ -1,4 +1,5 @@
  <img src="./Images-for-ReadMe/1.png" >
+ 
 
 # 🎥 FlowScript: Unleashing Video Stories with 3D Motion Capture, Sequential Analysis, and AI Precision ✍️  
 **_Far Beyond Basic Video-to-Text—Every Movement, Every Detail, Perfected_**
@@ -112,4 +113,3 @@ Upload videos online via our single-file Python app—check the repo!
 
 ---
 
-**Note**: Replace `path/to/..._screenshot.png` with your actual screenshots.
